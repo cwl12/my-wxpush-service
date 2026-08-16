@@ -1,0 +1,3 @@
+name = "my-wxpush-service"
+main = "src/index.js"
+compatibility_date = "2023-11-21"
